@@ -10,3 +10,13 @@ Personal Email: ale.trapasso8@gmail.com
 Account Linkedin: www.linkedin.com/in/alessandro-trapasso
 
 SlideShare presentation: 
+
+# Builds and runs on GNU/Linux:
+
+make && make test
+
+Binary generated: ./build/wmbusmeters
+
+make DEBUG=true
+
+Binary generated: ./build_debug/wmbusmeters
