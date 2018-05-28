@@ -3,13 +3,13 @@ Chat created between two iM871A-USB devices. The devices exchange telegrams via 
 
 Project for Pervasive Systems of Sapienza.
 
-Author: Alessandro Trapasso
+* Author: Alessandro Trapasso
 
-Personal Email: ale.trapasso8@gmail.com
+* Personal Email: ale.trapasso8@gmail.com
 
-Account Linkedin: www.linkedin.com/in/alessandro-trapasso
+* Account Linkedin: www.linkedin.com/in/alessandro-trapasso
 
-SlideShare presentation: 
+* SlideShare presentation: 
 
 # Builds and runs on GNU/Linux:
 ```
