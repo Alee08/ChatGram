@@ -59,7 +59,7 @@ chown user:user /dev/ttyUSB0
 
 Replace "user" with your username
 
-# Documents and work on wireless bus technology
+# Documents and works on wireless bus technology
 http://pages.silabs.com/rs/634-SLU-379/images/introduction-to-wireless-mbus.pdf
 
 http://www.m-bus.com/files/w4b21021.pdf
