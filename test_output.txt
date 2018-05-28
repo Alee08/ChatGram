@@ -1,0 +1,4 @@
+{media:"cold water",meter:"multical21","name":"MyTapWater","id":"76348799","total_m3":6.388000,"target_m3":6.377000,"current_status":"DRY","time_dry":"22-31 days","time_reversed":"","time_leaking":"","time_bursting":"","timestamp":"2018-05-28T01:11:53Z"}
+{media:"cold water",meter:"multical21","name":"MyTapWater","id":"76348799","total_m3":6.388000,"target_m3":6.377000,"current_status":"DRY","time_dry":"22-31 days","time_reversed":"","time_leaking":"","time_bursting":"","timestamp":"2018-05-28T01:11:53Z"}
+{media:"heat",meter:"multical302","name":"MyHeater","id":"12345678","total_kwh":0.000000,"total_volume_m3":0.000000,"current_kw":"0.000000","timestamp":"2018-05-28T01:11:53Z"}
+{media:"electricity",meter:"omnipower","name":"MyElectricity","id":"15947107","total_kwh":341.000000,"current_kw":"0.000000","timestamp":"2018-05-28T01:11:53Z"}
