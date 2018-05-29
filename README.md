@@ -31,7 +31,7 @@ Binary generated: ```./build_debug/wmbusmeters```
 ```
 
 
-In this way we are sniffing all the telegrams sent in the vicinity.
+In this way we are sniffing all the telegrams sent in the nearby.
 
 2. Send telegrams until we find the address of the two devices.
 
