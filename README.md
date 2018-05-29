@@ -35,11 +35,16 @@ In this way we are sniffing all the telegrams sent in the vicinity.
 
 2. Send telegrams until we find the address of the two devices.
 
+The wmbus telegram headers are not encrypted. Thus the senders address, manufacturer, control flags, device version and device type can always be read.
+The control flags and the ci-field will tell you if there is data that needs to be decrypted.
+
 3. Then restart the receive program like this:
 ```
 ./build_debug/wmbusmeters /dev/im871a MyMeter generico 00101249 ""
 ```
 (where you replace 00101249 with the message address you received.)
+
+The telegrams sent via chat are not encrypted. Insert the quotation marks on the last field dedicated to the AES key as in the example.
 
 4. Now the two devices are ready to chat with each other!
 
