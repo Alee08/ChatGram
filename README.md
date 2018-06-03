@@ -9,7 +9,7 @@ Project for Pervasive Systems of Sapienza.
 
 * Account Linkedin: www.linkedin.com/in/alessandro-trapasso
 
-* SlideShare presentation: 
+* SlideShare presentation: https://www.slideshare.net/AlessandroTrapasso/the-wireless-mbus-technology
 
 # Builds and runs on GNU/Linux:
 ```
